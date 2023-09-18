@@ -1,1 +1,28 @@
-
+h1 {
+    color: pink;
+    font-family: verdana;
+    font-size: 48px;
+  }
+  
+  p {
+    background: white
+  }
+  
+  figure {
+    border: 3 px solid black;
+    padding: 10px;
+    padding bottom: 20px;
+  }
+  
+  figure img {  
+    max-width: 75%;
+    height: auto;
+    margin-bottom: 12 px;
+  }
+  
+  p img {
+    float: center;
+    max-width: 60%;
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
