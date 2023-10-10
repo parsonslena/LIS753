@@ -7,12 +7,21 @@ ul {
   font-family: verdana;
   font-size: 18px;
 }
-h1 {
-    color: dark pink;
+h1#site-title {
+    color: dark rgb(227, 153, 165);
     font-family: verdana;
     font-size: 48px;
+    letter-spacing: -3px;
+    margin-top: 0;
+    margin-bottom: auto;
+    text-align: center;
   }
-  
+  h1#article-title {
+    color: dark rgb(207, 17, 49);
+    font-family: verdana;
+    font-size: 32px;
+    text-align: center;
+  }
   p {
     background: white
   }
