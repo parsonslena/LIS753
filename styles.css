@@ -38,6 +38,16 @@ h1#site-title {
     margin-bottom: 12 px;
   }
   
+  figure.main-image {
+    background:rgb(227, 153, 165)
+    border-color: red
+    color: whitesmoke
+
+  }
+
+  figure.section-image {
+
+  }
   p img {
     float: center;
     max-width: 60%;
