@@ -54,6 +54,16 @@ h1#site-title {
     border-color: blueviolet
     color: whitesmoke
   }
+
+  figure.section-image.odd {
+float: right;
+margin-left: 20 px;
+  }
+
+figure.section-image.even {
+float: left;
+margin-right: 20 px
+}
   p img {
     float: center;
     max-width: 60%;
