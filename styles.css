@@ -29,7 +29,7 @@ h1#site-title {
   figure {
     border: 3 px solid black;
     padding: 10px;
-    padding bottom: 20px;
+    padding-bottom: 20px;
   }
   
   figure img {  
@@ -41,7 +41,7 @@ h1#site-title {
   figure.main-image {
     background:rgb(227, 153, 165)
     border-color: red
-    color: white
+    color: #fff
   }
 
   figure.section-image {
