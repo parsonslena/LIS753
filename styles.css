@@ -41,12 +41,10 @@ h1#site-title {
   figure.main-image {
     background:rgb(227, 153, 165)
     border-color: red
-    color: whitesmoke
-
+    color: white
   }
 
   figure.section-image {
-    float: center;
     max-width: 60%;
     margin-left: 10px;
     margin-bottom: 20px;
