@@ -10,16 +10,9 @@ h1#site-title {
   
   body {
     background-color: lightgrey;
-    color: blue;
   }
   
-  h1 {
-    background-color: black;
-    color: white;
-  }
-body {
-  background-color: gray;
-}
+
 figure {
   border: 3 px solid black;
   padding: 10px;
@@ -30,6 +23,7 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12 px;
+  border:
 }
 .center {
   display: block;
