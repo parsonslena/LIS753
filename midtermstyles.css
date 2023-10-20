@@ -1,11 +1,21 @@
 h1#site-title {
     color: tomato;
-    font-family: verdana;
+    font-family: "Verdana";
     font-size: 48px;
     letter-spacing: -3px;
     margin-top: 0;
     margin-bottom: auto;
     text-align: center;
+  }
+  
+  body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
   }
 body {
   background-color: gray;
@@ -20,4 +30,10 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12 px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
