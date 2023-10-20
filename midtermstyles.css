@@ -1,1 +1,12 @@
-
+h1#site-title {
+    color: tomato;
+    font-family: verdana;
+    font-size: 48px;
+    letter-spacing: -3px;
+    margin-top: 0;
+    margin-bottom: auto;
+    text-align: center;
+  }
+body {
+  background-color: gray;
+}
