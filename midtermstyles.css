@@ -23,7 +23,7 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12 px;
-  border:
+  border: 5 px solid black
 }
 .center {
   display: block;
