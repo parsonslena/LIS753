@@ -1,12 +1,13 @@
-h1 head #head{
-    color: tomato;
-    font-family: Verdana;
+h1 header #header{
     font-size: 48px;
     letter-spacing: -3px;
     margin-top: 0;
     margin-bottom: auto;
     text-align: center;
+    color: tomato;
+    font-family: Verdana;
   }
+  
   #menu ul {
     list-style-type: none;
     margin: 0;
