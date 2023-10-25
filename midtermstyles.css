@@ -1,4 +1,4 @@
-h1 #site-title {
+h1 #header {
     color: tomato;
     font-family: Verdana;
     font-size: 48px;
@@ -14,7 +14,7 @@ h1 #site-title {
   
 
 figure {
-  border: 3 px solid black;
+  border-style: 3 px solid black;
   padding: 10px;
   padding-bottom: 20px;
 }
@@ -23,7 +23,7 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12 px;
-  border: 5 px solid black
+  border-style;: 5 px solid black
 }
 .center {
   display: block;
