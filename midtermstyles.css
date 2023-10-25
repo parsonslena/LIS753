@@ -1,4 +1,4 @@
-h1 head {
+h1 head #head{
     color: tomato;
     font-family: Verdana;
     font-size: 48px;
@@ -7,7 +7,7 @@ h1 head {
     margin-bottom: auto;
     text-align: center;
   }
-  ul {
+  #menu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
