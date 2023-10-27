@@ -6,6 +6,7 @@ h1 header #header{
     text-align: center;
     color: tomato;
     font-family: Verdana;
+    background-color: blanchedalmond;
   }
 
   #menu ul {
@@ -35,7 +36,29 @@ h1 header #header{
   body {
     background-color: lightgrey;
   }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+  }
   
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
 
 figure {
   border-style: 3 px solid black;
