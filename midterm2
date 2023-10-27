@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parsons Midterm Palo Alto Library Used Book Sale</title>
+    </head>
+    <header>
+      <h1>Friends of the Palo Alto Library Used Book Sale</h1>
+    </header>
+    <div class="topnav">
+    <ul>
+    <a href="#about">About</a>
+    <a href="#when">When</a>
+    <a href="#location">Location</a>
+    <a href="#donate">Donate</a>
+  </ul>
+        
