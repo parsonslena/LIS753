@@ -7,7 +7,9 @@ h1{
     color: tomato;
     font-family: Verdana;
   }
-
+  body {
+    background-color: lightgoldenrodyellow;
+  }
   menu ul {
     display: flex;
     justify-content: space-around;
@@ -32,9 +34,7 @@ h1{
   li a:hover {
     background-color: #111;
   }
-  body {
-    background-color: url("paper.gif");
-  }
+  
   ul {
     list-style-type: none;
     margin: 0;
