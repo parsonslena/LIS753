@@ -10,37 +10,12 @@ h1{
   body {
     background-color: lightgoldenrodyellow;
   }
-  menu ul {
-    display: flex;
-    justify-content: space-around;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
-  }
-  
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: grey;
+    background-color: orangered;
   }
   
   li {
@@ -54,13 +29,9 @@ h1{
     padding: 14px 16px;
     text-decoration: none;
   }
-  
-  li a:hover {
-    background-color: #111;
-  }
 
 figure {
-  border-style: 3px solid black;
+  border-style: 3px solid orange;
   padding: 10px;
   padding-bottom: 20px;
 }
@@ -69,7 +40,7 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12px;
-  border-style: 5px solid black;
+  border-style: 5px solid orange;
 }
 .center {
   display: block;
