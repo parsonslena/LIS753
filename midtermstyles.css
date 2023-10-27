@@ -1,4 +1,4 @@
-h1 header #header{
+h1 header{
     font-size: 48px;
     letter-spacing: -3px;
     margin-top: 0;
@@ -6,10 +6,14 @@ h1 header #header{
     text-align: center;
     color: tomato;
     font-family: Verdana;
-    background-color: blanchedalmond;
   }
 
-  #menu ul {
+   body {
+    background: url("paper.gif");
+  } 
+  
+
+  menu ul {
     display: flex;
     justify-content: space-around;
     margin: 0;
