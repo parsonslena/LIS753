@@ -57,6 +57,4 @@ figcaption {
   text-align: center;
   color: tomato; 
   border-style: 9px solid orange;
-  display: table-caption;
-  caption-side: top;
 }
