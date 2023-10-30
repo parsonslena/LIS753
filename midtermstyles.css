@@ -10,7 +10,7 @@ h1{
   body {
     background-color: lightgoldenrodyellow;
   }
-  ul {
+  ul{
     list-style-type: none;
     margin: 0;
     text-align: center;
@@ -25,7 +25,7 @@ h1{
     text-decoration: none;
   }
   
-  li {
+  li{
     float: center;
   }
   
@@ -39,20 +39,20 @@ h1{
     text-decoration: none;
   }
 
-  h2 {
+  h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     color: orangered
     text-align: center;
   }
 
-figure {
+figure{
   border-style: 9px solid orange;
   padding: 10px;
   padding-bottom: 20px;
 }
 
-figure img {  
+figure img{  
   max-width: 75%;
   height: auto;
   margin-bottom: 12px;
@@ -65,7 +65,7 @@ figure img {
   margin-right: auto;
   width: 50%;
 }
-figcaption {
+figcaption{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: small;
   text-align: center;
