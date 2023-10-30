@@ -72,3 +72,13 @@ figcaption{
   color: tomato; 
   border-style: 9px solid orange;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: tomato;
+  color: white;
+  text-align: center;
+}
