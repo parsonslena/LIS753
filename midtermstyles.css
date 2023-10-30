@@ -50,6 +50,7 @@ figure img {
   height: auto;
   margin-bottom: 12px;
   border-style: 9px solid orange;
+  text-align: center;
 }
 .center {
   display: block;
@@ -58,7 +59,6 @@ figure img {
   width: 50%;
 }
 figcaption {
-  //
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: small
   text-align: center;
