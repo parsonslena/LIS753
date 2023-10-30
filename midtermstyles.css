@@ -13,13 +13,13 @@ h1{
   ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    overflow: hidden;
+    text-align: center;
+    padding: 14px 16px;
     background-color: orangered;
   }
   
   li {
-    float: left;
+    float: center;
   }
   
   li a {
@@ -33,7 +33,7 @@ h1{
   }
 
 figure {
-  border-style: 3px solid orange;
+  border-style: 9px solid orange;
   padding: 10px;
   padding-bottom: 20px;
 }
@@ -42,11 +42,17 @@ figure img {
   max-width: 75%;
   height: auto;
   margin-bottom: 12px;
-  border-style: 5px solid orange;
+  border-style: 9px solid orange;
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+figcaption {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: small
+  text-align: center;
+  color: tomato; 
 }
