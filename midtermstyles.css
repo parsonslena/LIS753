@@ -60,7 +60,7 @@ figure img {
 }
 figcaption {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: small
+  font-size: small;
   text-align: center;
   color: tomato; 
   border-style: 9px solid orange;
