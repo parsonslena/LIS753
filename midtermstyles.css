@@ -39,6 +39,13 @@ h1{
     text-decoration: none;
   }
 
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: orangered
+    text-align: center;
+  }
+
 figure {
   border-style: 9px solid orange;
   padding: 10px;
