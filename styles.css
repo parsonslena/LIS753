@@ -39,8 +39,8 @@ h1#site-title {
   }
   
   figure.main-image {
-    background:rgb(227, 153, 165)
-    border-color: red
+    background:rgb(227, 153, 165);
+    border-color: red;
     color: #fff
   }
 
@@ -48,8 +48,9 @@ h1#site-title {
     max-width: 60%;
     margin-left: 10px;
     margin-bottom: 20px;
-    background: rgb(227, 153, 165)
-    border-color: blueviolet
+    background: rgb(227, 153, 165);
+    border-style: solid;
+    border-color: blueviolet;
     color: whitesmoke
   }
 
@@ -62,6 +63,7 @@ figure.section-image.even {
 float: left;
 margin-right: 20 px
 }
+
   p img {
     float: center;
     max-width: 60%;
