@@ -25,11 +25,22 @@ h1#site-title {
   p {
     background: white
   }
+
+  @media all and (main-width: 376px) {
+    nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    padding-left: 0;
+    }
+  }
+
   img {  
     max-width: 100%;
     height: auto;
   }
-  
+
   figure {
     border: 3 px solid black;
     padding: 10px;
@@ -48,6 +59,7 @@ h1#site-title {
     color: #fff
   }
 
+  @media all and (min-width: 768px) {
   figure.section-image {
     max-width: 60%;
     margin-left: 10px;
@@ -56,6 +68,7 @@ h1#site-title {
     border-style: solid;
     border-color: blueviolet;
     color: whitesmoke
+    }
   }
 
   figure.section-image.odd {
