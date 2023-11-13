@@ -25,6 +25,10 @@ h1#site-title {
   p {
     background: white
   }
+  img {  
+    max-width: 100%;
+    height: auto;
+  }
   
   figure {
     border: 3 px solid black;
@@ -33,7 +37,7 @@ h1#site-title {
   }
   
   figure img {  
-    max-width: 75%;
+    max-width: 100%;
     height: auto;
     margin-bottom: 12 px;
   }
