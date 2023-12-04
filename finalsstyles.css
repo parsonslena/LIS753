@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150 px;
+    color: dark pink;
+    font-family: verdana;
+    font-size: 18px;
+  }
+  h1#site-title {
+      color: dark rgb(227, 153, 165);
+      font-family: verdana;
+      font-size: 48px;
+      letter-spacing: -3px;
+      margin-top: 0;
+      margin-bottom: auto;
+      text-align: center;
+    }
+    h1#article-title {
+      color: dark rgb(207, 17, 49);
+      font-family: verdana;
+      font-size: 32px;
+      text-align: center;
+    }
+    p {
+      background: white
+    }
