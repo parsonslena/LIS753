@@ -25,3 +25,7 @@ ul {
     p {
       background: white
     }
+    img {  
+        max-width: 48px;
+        height: 36px;
+      }
