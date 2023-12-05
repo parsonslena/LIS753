@@ -30,7 +30,8 @@ ul {
         height: 36px;
       }
       figure img {  
-        max-width: 48px;
-        height: 36px;
+        max-width: 248px;
+        height: 136px;
         margin-bottom: 12 px;
+        align-items: center;
       }
