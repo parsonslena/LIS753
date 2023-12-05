@@ -25,13 +25,10 @@ ul {
     p {
       background: white
     }
-    img {  
-        max-width: 48px;
-        height: 36px;
-      }
+    
       figure img {  
-        max-width: 248px;
-        height: 136px;
+        max-width: 200px;
+        height: 600px;
         margin-bottom: 12 px;
         align-items: center;
       }
