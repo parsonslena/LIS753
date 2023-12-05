@@ -29,3 +29,8 @@ ul {
         max-width: 48px;
         height: 36px;
       }
+      figure img {  
+        max-width: 48px;
+        height: 36px;
+        margin-bottom: 12 px;
+      }
