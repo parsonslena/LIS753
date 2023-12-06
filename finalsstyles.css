@@ -23,11 +23,11 @@ ul {
       text-align: center;
     }
     p {
-      background: white
+      background: lightslategray
     }
     
       figure img {  
-        max-width: 200px;
+        max-width: 600px;
         height: 600px;
         margin-bottom: 12 px;
         align-items: center;
