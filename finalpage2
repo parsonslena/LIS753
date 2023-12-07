@@ -1,0 +1,133 @@
+!DOCTYPE html>
+<html lang="en">
+ <head>
+   <title>Lena Parsons Resume</title>
+   <div class="header" id="headerwrap">
+    <div class="container">
+      <div class="row centered">
+        <div class="col-lg-12">
+          <h1>Lena Parsons</h1>
+          <h3>MLIS 2024 <br>
+           Archives, Records Management, Library Services, Communications</h3> 
+           <a href="mailto:parsonslena@gmail.com">Email me</a>
+          </h3>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="finalsstyles.css" rel="stylesheet"/>
+<section id="resume" name="resume"></section>
+	<!-- EDUCATION SECTION -->
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>EDUCATION</h5>
+				</div>
+				<div class="col-lg-6">
+					<p><t>Master's of Library and Information Sciences</t><br/>
+						Dominican University, River Forest, IL
+						3.98 GPA
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>Expected May 2024</sm><br/>
+					<imp><sm>IN PROGRESS</sm></imp>
+					</p>
+				</div>
+	
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Bachelor's of Science, Journalism & Women's Studies </t><br/>
+						 New Mexico State University
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>May 1999</sm></p>
+				</div>
+	
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+	
+	<!-- WORK SECTION -->
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>WORK</h5>
+				</div>
+				<!-- EDIT: work line 1 -->
+				<div class="col-lg-6">
+					<p class="tight"><t>Position </t><br/>
+						Thatone Corp. <br/>
+					</p>
+					<p><more>Here's where you put a description of the position you held. Responsibilities, accomplishments - the same as you would do on a standard paper resume, but this will be online and look cooler.</more></p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>AUGUST 2012 - CURRENT <br />
+					CITY, STATE, COUNTRY</sm></p>
+				</div>
+				
+				<!-- EDIT: work line 2-->
+				<div class="col-lg-6 col-lg-offset-3">
+					<p class="tight"><t>Previous Position</t><br/>
+						Another Organization Ltd. <br/>
+					</p>
+					<p><more>You worked at another job! Great! Describe waht you did there, include those responsibilities and accomplishments again.</more></p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>JUNE 2010 - JULY 2012 <br />
+					GOTHAM CITY, USA</sm></p>
+				</div>
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+
+
+	<!-- AWARDS SECTION -->
+	<div class="container desc">
+		<div class="row">
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>AWARDS</h5>
+				</div>
+
+				<!-- EDIT: awards line 1-->
+				<div class="col-lg-6">
+					<p><t>Best Smile Award</t><br/>
+						Award-giving organization<br/>
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>NOVEMBER 2013</sm></p>
+				</div>
+	
+				<!-- EDIT: awards line 2-->
+				<div class="col-lg-6 col-lg-offset-3">
+					<p class="tight"><t>Another award</t><br/>
+						Awards Site
+					</p>
+					<p><more>This award has a description. You won it eating pie. Or probably doing something more job-related. Maybe you won't even keep this section - you'll replace it with Skills or something else!</more></p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>2013</sm></p>
+				</div>
+		
+		</div><!--/.row -->
+		<br>
+	</div><!--/.container -->
+EXPERIENCE 
+Master of Library Information & Sciences student, 
+Dominican University, River Forest, IL						January 2020 - present
+•	Completed 34 hours of 36-hour curriculum at American Library Association-accredited MLIS degree program. Program curriculum is composed of a range of courses for a sound conceptual basis for a leadership-oriented career. 
+•	Completed course work includes Core Values, Ethics and Issues; Evidence-based Planning, Management and Decision-Making, Leadership, Marketing and Strategic Communications; Organization of Knowledge; Introduction to Archives; and Critical Race Theory in Library and Information Sciences.
+•	Experience includes 40-hour practicum with Saint Louis Zoo Registrar in electronic global, web-based animal record keeping system (Zoological Information Management System/ZIMS) and document management system (DocuWare).
+•	Anticipated graduation in 2024 with additional Certificate in Archives and Cultural Heritage Resources and Services.
+
+Assistant Registrar								
+Education & Conservation Education Department, Saint Louis Zoo		March 2023 - present
+•	Manage enrollment, payment, files and office administrative tasks of Education Department.
+•	Complete various reports for educator, administrative and regulatory purposes.
+
+Freelance Consultant 								January 2015 - present 
+•	Independently manage public relations and communications activities to achieve clients’ business, legislative, legal and communications goals through comprehensive, multifaceted communications campaigns. 
+•	Successfully identifies client needs, develops and executes strategy, advises at senior and executive level and organically grows strategy to achieve a higher level of success for clients. 
+•	Past and present clients include: a ketamine mental health medical practice; Access Living, one of the country’s largest Centers for Independent Living and disability rights organization; trade organizations; a legal defense fund working on behalf of sexually harassed and assaulted women; a software start-up that went on to win major VC funding and media attention by Buzzfeed, Forbes, tech press, and San Francisco media; a medical marijuana cultivator; a global industrial manufacturer and nonprofit and policy organizations. 
